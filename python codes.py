@@ -1,0 +1,5 @@
+print("hi ı am uyev what is your name")
+b = ("im @ve")
+print(b)
+print("hi ve I am sonsored")
+print("Yes")
